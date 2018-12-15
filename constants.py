@@ -1,3 +1,4 @@
+import pygame
 BOARDHEIGHT = 7
 BOARDWIDTH = 7
 TILESIZE = 92
